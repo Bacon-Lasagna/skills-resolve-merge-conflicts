@@ -12,7 +12,10 @@
 _Learn why conflicts happen and how to resolve them._
 
 </header>
+# References
 
+* octocat 1 😈
+* #make a confliction
 <!--
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
